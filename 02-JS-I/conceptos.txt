@@ -1,0 +1,5 @@
+Variables: Es como si fuera una cajita, en donde le damos un valor que vamos a utilizar y llamar más adelante a medida que vayamos trabajando. Se llama var, let o const y podemos darle un valor agregando el símbolo = a su derecha.
+Strings: Es un texto que podemos añadir en la cajita que hablamos antes, llamada variable. Para agregarlo tenemos que usar comillas siempre '' 
+Funciones (argumentos, `return`): Una funcion es como si fuera una cajita, donde podemos agregar muchas cosas al mismo tiempo, pero no lo utilizamos en todo nuestro programa, solo cuando la llamamos usando los (). Los argumentos son los nombres que le damos a los valores que vamos a ir guardando dentro de esta función. El return lo vamos a utilzar para que nos devuelva un valor específico al momento de llamarla.
+Declaraciones `if`: La declaración if es para preguntarle a la computadora si es verdadero o falso lo que estemos preguntandole en el momento.
+Valores booleanos (`true`, `false`): El valor true significa que lo que le estamos preguntando a la computadora es verdadero y el valor false nos va a decir que lo que le estemos preguntando a la computadora es falso.
