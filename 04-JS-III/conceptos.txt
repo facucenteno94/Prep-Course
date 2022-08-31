@@ -1,0 +1,2 @@
+Conceptos:
+array: Un array es como una cajita, en donde podemos poner todos los datos que querramos del tipo que sea, ya sean números, palabras o valores como verdadero y falso. Esto lo podemos realizar poniendo []. Ejemplo var array = []. Podemos acceder siempre y cuando querramos a cada uno de los datos que pongamos en esta cajita de una forma ordenada poniendo el número de orden correspondiente a cada uno, teniendo en cuenta que el primer valor adopta el valor prederterminado en 0.
