@@ -1,0 +1,6 @@
+Conceptos JSII:
+// En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+for: Este nombre lo vamos a utilizar para que se repita un paso que le indiquemos a la computadora siempre y cuando sea verdad y se cumpla el requisito que le pongamos como consigna.
+&&: Es para indicarle a la computadora que solamente nos diga si es verdad siempre y cuando se cumplan los dos o mas requisítos que estamos poniendo en la consigna.
+||: Es para indicarle a la computadora que si alguno de los requisitos que le estamos preguntando es cierto, nos diga que es verdadero.
+!: Es para indicarle a la computadora el valor contrario de lo que le estamos diciendo, como si fuera un NO.
